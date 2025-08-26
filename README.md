@@ -62,9 +62,9 @@
 ---
 
 ### 🚀 Featured Projects
-- [📖 Blog Management System](https://github.com/kranthi-77/blog-system) – Full-stack MERN app with Clerk authentication and scheduling  
-- [💡 Startup Pitch Arena](https://github.com/kranthi-77/startup-pitch) – Real-time investor simulation platform  
-- [🚖 Cab Booking Website](https://github.com/kranthi-77/cab-booking) – Next.js + Spring Boot full-stack rewrite  
+- [📖 full stack blog](https://github.com/kranthi-77/Blog-app) – Full-stack MERN app with Clerk authentication and scheduling  
+- [💡 Ai mock interview](https://github.com/kranthi-77/ai_mock_interviews) – Real-time mock interviews 
+- [🚖 Finance app dashboard](https://github.com/kranthi-77/finance-app-dashboard) – Next.js + recharts dashboard 
 
 ---
 
