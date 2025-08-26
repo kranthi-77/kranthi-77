@@ -2,15 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/kranthi-kumar-velanati/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+   
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=kranthi-77&style=flat-square&color=blue" alt="Profile Views"/>
@@ -76,6 +71,4 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](your-twitter-url)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](your-youtube-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kranthi-kumar-velanati/))
